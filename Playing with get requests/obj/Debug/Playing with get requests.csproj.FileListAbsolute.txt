@@ -1,0 +1,6 @@
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Playing with get requests\bin\Debug\Playing with get requests.exe.config
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Playing with get requests\bin\Debug\Playing with get requests.exe
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Playing with get requests\bin\Debug\Playing with get requests.pdb
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Playing with get requests\obj\Debug\Playing with get requests.exe
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Playing with get requests\obj\Debug\Playing with get requests.pdb
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Playing with get requests\obj\Debug\Playing with get requests.csprojResolveAssemblyReference.cache
