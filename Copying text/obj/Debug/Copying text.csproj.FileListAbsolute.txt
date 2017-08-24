@@ -12,3 +12,6 @@ C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying_te
 C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.csproj.GenerateResource.Cache
 C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.exe
 C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.pdb
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Copying text\bin\Debug\Copying text.exe.config
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Copying text\obj\Debug\Copying text.exe
+C:\Users\artikk\Downloads\Projects\Software\C#\Basics\Copying text\obj\Debug\Copying text.pdb
