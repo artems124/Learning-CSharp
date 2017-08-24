@@ -1,0 +1,14 @@
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\bin\Debug\Copying text.exe.config
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\bin\Debug\Copying text.exe
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\bin\Debug\Copying text.pdb
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.csprojResolveAssemblyReference.cache
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\MainWindow.g.cs
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\App.g.cs
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text_MarkupCompile.cache
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text_MarkupCompile.lref
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\MainWindow.baml
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.g.resources
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying_text.Properties.Resources.resources
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.csproj.GenerateResource.Cache
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.exe
+C:\Users\artikk\Downloads\Projects\Software\C#\Copying text\obj\Debug\Copying text.pdb
